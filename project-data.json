@@ -1,26 +1,13 @@
 {
   "workbooks": [
+
     {
-      "name": "Price Forecast New",
-      "file_path": "Price Forecast New.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "Forecasting",
-        "Crop"
-      ],
-      "hidden_views": [
-        "Forecast","Price Forecast"
-      ],
-      "show_tabs": true,
-      "description": "Price Forecast"
-    },
-    {
-      "name": "Superstore_Sales_&_Profit",
-      "file_path": "Superstore_Sales_&_Profit.twb",
+      "name": "Sales",
+      "file_path": "Sales.twbx",
       "project_path": "Technology",
       "tags": [
         "Sales",
-        "Profit"
+        "Pro"
       ],
       "hidden_views": [
         ""
