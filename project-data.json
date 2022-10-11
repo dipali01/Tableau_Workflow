@@ -1,19 +1,6 @@
 {
   "workbooks": [
-    {
-      "name": "Price Forecast New",
-      "file_path": "Price Forecast.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "Forecasting",
-        "Crop"
-      ],
-      "hidden_views": [
-        "Forecast","Price Forecast"
-      ],
-      "show_tabs": true,
-      "description": "Price Forecast"
-    },
+
     {
       "name": "S&P",
       "file_path": "S&P.twbx",
