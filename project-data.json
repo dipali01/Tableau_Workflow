@@ -2,8 +2,8 @@
   "workbooks": [
 
     {
-      "name": "Price Forecast_1",
-      "file_path": "Price Forecast_1.twbx",
+      "name": "Price Forecast New",
+      "file_path": "Price Forecast New.twbx",
       "project_path": "Technology",
       "tags": [
         "Price",
@@ -14,6 +14,20 @@
       ],
       "show_tabs": true,
       "description": "Price"
+    },
+    {
+      "name": "Sales",
+      "file_path": "Sales.twbx",
+      "project_path": "Technology",
+      "tags": [
+        "Sales",
+        "Profit"
+      ],
+      "hidden_views": [
+        " ","Price Forecast"
+      ],
+      "show_tabs": true,
+      "description": "Sales"
     }
   ]
 }
