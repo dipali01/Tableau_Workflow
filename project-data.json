@@ -15,12 +15,12 @@
       "description": "Price Forecast"
     },
     {
-      "name": "Superstore_Sales_&_Profit",
-      "file_path": "Superstore_Sales_&_Profit.twb",
+      "name": "S&P New",
+      "file_path": "S&P New.twbx",
       "project_path": "Technology",
       "tags": [
         "Sales",
-        "Profit"
+        "Pro"
       ],
       "hidden_views": [
         ""
