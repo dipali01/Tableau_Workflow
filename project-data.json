@@ -2,8 +2,8 @@
   "workbooks": [
 
     {
-      "name": "S&P",
-      "file_path": "S&P.twbx",
+      "name": "Sales",
+      "file_path": "Sales.twbx",
       "project_path": "Technology",
       "tags": [
         "Sales",
