@@ -2,18 +2,18 @@
   "workbooks": [
 
     {
-      "name": "Sales",
-      "file_path": "Sales.twbx",
-      "project_path": "Technology",
+      "name": " ",
+      "file_path": " ",
+      "project_path": " ",
       "tags": [
-        "Sales",
-        "Pro"
+        " ",
+        " "
       ],
       "hidden_views": [
         ""
       ],
       "show_tabs": true,
-      "description": "Price Forecast"
+      "description": " "
     }
   ]
 }
