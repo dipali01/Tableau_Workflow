@@ -2,7 +2,7 @@
   "workbooks": [
     {
       "name": "Price Forecast New",
-      "file_path": "Price Forecast New.twbx",
+      "file_path": "Price Forecast.twbx",
       "project_path": "Technology",
       "tags": [
         "Forecasting",
@@ -15,8 +15,8 @@
       "description": "Price Forecast"
     },
     {
-      "name": "S&P New",
-      "file_path": "S&P New.twbx",
+      "name": "S&P",
+      "file_path": "S&P.twbx",
       "project_path": "Technology",
       "tags": [
         "Sales",
