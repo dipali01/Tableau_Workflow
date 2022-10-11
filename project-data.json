@@ -2,8 +2,8 @@
   "workbooks": [
 
     {
-      "name": "Price_Forecast",
-      "file_path": "Price_Forecast.twbx",
+      "name": "Price Forecast",
+      "file_path": "Price Forecast.twbx",
       "project_path": "Technology",
       "tags": [
         "Price",
@@ -30,8 +30,8 @@
       "description": "Sales"
     },
     {
-      "name": "AirbnbTutorial",
-      "file_path": "AirbnbTutorial.twbx",
+      "name": "Air bnbTutorial",
+      "file_path": "Air bnbTutorial.twbx",
       "project_path": "Technology",
       "tags": [
         "Airbnb",
