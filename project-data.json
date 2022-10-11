@@ -24,7 +24,7 @@
         "Profit"
       ],
       "hidden_views": [
-        " ","Price Forecast"
+        " ","Sales"
       ],
       "show_tabs": true,
       "description": "Sales"
@@ -42,6 +42,6 @@
       ],
       "show_tabs": true,
       "description": "Airbnb Tutorial"
-    },
+    }
   ]
 }
