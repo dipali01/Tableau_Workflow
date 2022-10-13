@@ -1,6 +1,5 @@
 name: PublishWorkbook
-on:
-  workflow_dispatch
+on: [pull_request, workflow_dispatch]
 
 jobs:
   Publish:
@@ -10,5 +9,5 @@ jobs:
       - name: Checkout
       - uses: actions/checkout@v2
 
-      - name: say something
+      - name: report
         run: echo"Hi"
