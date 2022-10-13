@@ -1,0 +1,20 @@
+{
+  "workbooks": [
+
+    {
+      
+      "name": "Air bnb Tutorial",
+      "file_path": "C:/Users/Acer/Documents/Dipali_GIT/Tableau_Workflow/workbook/Air bnb Tutorial.twbx",
+      "project_path": "Technology",
+      "tags": [
+        "Airbnb",
+        "Tutorial"
+      ],
+      "hidden_views": [
+        " ","Airbnb Tutorial"
+      ],
+      "show_tabs": true,
+      "description": "Airbnb Tutorial"
+    }
+  ]
+}
