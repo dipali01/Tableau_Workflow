@@ -2,36 +2,9 @@
   "workbooks": [
 
     {
-      "name": "PriceForecast",
-      "file_path": "workbook/PriceForecast.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "Price",
-        "Forecast"
-      ],
-      "hidden_views": [
-        "Forecast","Price Forecast"
-      ],
-      "show_tabs": true,
-      "description": "Price"
-    },
-    {
-      "name": "SalesP",
-      "file_path": "workbook/SalesP.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "Sales",
-        "Profit"
-      ],
-      "hidden_views": [
-        " ","Sales"
-      ],
-      "show_tabs": true,
-      "description": "Sales"
-    },
-    {
-      "name": "Air_bnbTutorial",
-      "file_path": "workbook/Air_bnbTutorial.twbx",
+      
+      "name": "AirbnbTutorial",
+      "file_path": "workbook/AirbnbTutorial.twbx",
       "project_path": "Technology",
       "tags": [
         "Airbnb",
