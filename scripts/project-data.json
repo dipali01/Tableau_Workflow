@@ -3,8 +3,8 @@
 
     {
       
-      "name": "Airbnb1",
-      "file_path": "Airbnb1.twbx",
+      "name": "Airbnb",
+      "file_path": "Airbnb.twbx",
       "project_path": "Technology",
       "tags": [
         "air",
@@ -15,6 +15,36 @@
       ],
       "show_tabs": true,
       "description": "Airbnb Tutorial"
+    },
+    {
+      
+      "name": "Airbnb Tutorial",
+      "file_path": "Airbnb Tutorial.twbx",
+      "project_path": "Technology",
+      "tags": [
+        "airpnb",
+        "Tutorial"
+      ],
+      "hidden_views": [
+        " ",""
+      ],
+      "show_tabs": true,
+      "description": "AirbnbTutorial"
+    },
+    {
+      
+      "name": "Superstore - Profitability Overview",
+      "file_path": "Superstore - Profitability Overview.twb",
+      "project_path": "Technology",
+      "tags": [
+        "sales",
+        "profit"
+      ],
+      "hidden_views": [
+        " ",""
+      ],
+      "show_tabs": true,
+      "description": "Superstore - Profitability Overview"
     }
   ]
 }
