@@ -47,7 +47,7 @@ def main(args):
                         exit(1)
 
     except Exception as e:
-        print(f"{wb_path.rsplit('/', 1)[1]} Workbook not published.\n", e)
+        print("Workbook not published.\n", e)
         exit(1)
 
 
