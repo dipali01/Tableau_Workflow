@@ -15,36 +15,6 @@
       ],
       "show_tabs": true,
       "description": "Sample Workbook"
-    },
-    {
-      
-      "name": "AirbnbTutorial",
-      "file_path": "AirbnbTutorial.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "airpnb",
-        "Tutorial"
-      ],
-      "hidden_views": [
-        " ",""
-      ],
-      "show_tabs": true,
-      "description": "AirbnbTutorial"
-    },
-    {
-      
-      "name": "Superstore - Profitability _Overview",
-      "file_path": "Superstore - Profitability _Overview.twb",
-      "project_path": "Technology",
-      "tags": [
-        "sales",
-        "profit"
-      ],
-      "hidden_views": [
-        " ",""
-      ],
-      "show_tabs": true,
-      "description": "Superstore - Profitability Overview"
     }
   ]
 }
