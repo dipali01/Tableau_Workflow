@@ -3,18 +3,18 @@
 
     {
       
-      "name": "Airbnb_1",
-      "file_path": "Airbnb_1.twbx",
+      "name": "Sample Workbook",
+      "file_path": "Sample Workbook.twb",
       "project_path": "Technology",
       "tags": [
-        "air",
-        "Tutorial"
+        "sales",
+        "profit"
       ],
       "hidden_views": [
         " ",""
       ],
       "show_tabs": true,
-      "description": "Airbnb Tutorial"
+      "description": "Sample Workbook"
     },
     {
       
