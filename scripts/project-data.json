@@ -1,20 +1,17 @@
 {
   "workbooks": [
-
     {
-      
-      "name": "Sample Workbook1 ",
-      "file_path": "Sample Workbook1.twbx",
-      "project_path": "Technology",
-      "tags": [
-        "sales",
-        "Retail"
-      ],
-      "hidden_views": [
-        "Product",""
-      ],
+      "name": "Product",
+      "site_id": "834abe2d-18ac-46d3-9346-a2f3079941d2",
+      "site_name": "Enterprise",
+      "file_path": "Product.twbx",
+      "project_path": "Working",
+      "tags": ["sample", "temp"],
+      "hidden_views": ["Growth Rates"],
       "show_tabs": true,
-      "description": "Walmart Retail "
+      "description": "Sample description",
+      "is_site_default": true,
+      "server_url": "https://tableau.devinvh.com/"
     }
   ]
 }
